@@ -34,6 +34,8 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'bluz71/vim-moonfly-colors', { 'branch': 'cterm-compat' }
 Plug 'rust-lang/rust.vim'
+Plug 'https://github.com/ap/vim-css-color' 
+Plug 'mattn/emmet-vim'
 
 call plug#end()
 
